@@ -1,5 +1,5 @@
 # 💫 About Me:
-seedling I’m currently learning AWS and Golang.<br><br>speech_balloon Ask me about Terraform, Kubernetes, .<br><br>mailbox How to reach me aminkosari98@gmail.com.<br><br>page_facing_up   If you would like to know more about me, please look at my Linkedin page.
+I’m currently learning AWS and Golang.<br><br>Ask me about Terraform, Kubernetes, .<br><br> How to reach me aminkosari98@gmail.com.<br><br>   If you would like to know more about me, please look at my [Linkedin](https://www.linedin.com/in/amin-kosari) page.
 
 
 ## 🌐 Socials:
