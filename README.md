@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning AWS and Golang.<br><br>Ask me about Terraform, Kubernetes and other DevOps tools .<br><br> How to reach me aminkosari98@gmail.com.<br><br>   If you would like to know more about me, please look at my [Linkedin](https://www.linkedin.com/in/amin-kosari) page.
+<br><br>Ask me about Terraform, Kubernetes, and other DevOps tools .<br><br> How to reach me aminkosari98@gmail.com.<br><br>   If you would like to know more about me, please look at my [Linkedin](https://www.linkedin.com/in/amin-kosari) page.
 
 
 ## 🌐 Socials:
